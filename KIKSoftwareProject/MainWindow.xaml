@@ -1,0 +1,36 @@
+﻿<Window x:Class="KIKSoftwareProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KIKAction Window" ResizeMode="NoResize" SizeToContent="WidthAndHeight" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Loaded="Window_Loaded" Closed="Window_Closed" mc:Ignorable="d" d:DesignHeight="495" d:DesignWidth="1304">
+    <StackPanel Height="428" Width="1290">
+        <StackPanel Orientation="Horizontal" Width="1287" Height="353">
+            <StackPanel>
+                <TextBox FontSize="18" Focusable="False" BorderThickness="0" Text="Live Video Stream" HorizontalAlignment="Center" Name="VideoCaption"/>
+                <Image Width="400" Height="300" Name="videoStreamToForm" Margin="10 0 10 10" HorizontalAlignment="Left" />
+            </StackPanel>
+            <StackPanel Width="430">
+                <TextBox FontSize="18" Focusable="False" BorderThickness="0" Text="Skeleton Frame" HorizontalAlignment="Center"/>
+                <Canvas Width="400" Height="300" Name="skeletonToForm" Background="Black" ClipToBounds="False"></Canvas>
+            </StackPanel>
+            <StackPanel Width="432">
+            <TextBox BorderThickness="0" Focusable="False" FontSize="18" Text="Transformed Skeleton Frame" HorizontalAlignment="Center" />
+            <Canvas Background="Black" ClipToBounds="False" Height="300" Name="transformedSkeletonToForm" Width="400"></Canvas>
+                </StackPanel>
+            
+        </StackPanel>
+        <StackPanel Height="75" Name="stackPanel1" Width="557" Orientation="Horizontal">
+            <Button Content="Enable/Disable Audio" Height="35" Name="button1" Width="185" MaxWidth="185" MaxHeight="35" HorizontalAlignment="Left" Click="button1_Click_1" />
+            <Button Content="Enable/Disable Display" Height="35" Name="StopVisualthreads" Width="184" Click="button1_Click" Padding="1" MaxWidth="185" MaxHeight="35" ClickMode="Release" />
+            <Button Content="Enable/Disable Tranformations" Height="35" Name="button2" Width="185" Click="button2_Click" />
+        </StackPanel>
+    </StackPanel>
+    
+    
+    
+    
+    
+    
+    
+    
+</Window>

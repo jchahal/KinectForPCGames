@@ -1,0 +1,156 @@
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Desktop\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\KIKSoftwareProject\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Documents\Visual Studio 2010\Projects\Gcode\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bikram\Documents\University material\Fourth Year\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\uni_work_3.41GB\4thyear\ece496\gkik\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\uni_work_3.41GB\4thyear\ece496\gkik\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.pdb
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.dll
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\log4net.xml
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.baml
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\App.g.cs
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject_MarkupCompile.cache
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.g.resources
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.Properties.Resources.resources
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chauhan\Desktop\kik-software\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNew\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNewGitHubCommentsRemoved\trunk\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNewGitHubCommentsRemoved\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\Documents\University material\Fourth Year\First&SecondSem\ECE496-DesignProject\GCodeNewGitHubCommentsRemoved\trunk\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\workspace\KIKSoftwareProject\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\workspace\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\workspace\KIKSoftwareProject\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb
+C:\Users\Bikram\workspace\KinectForPCGames\KIKSoftwareProject\bin\Debug\KIKSoftwareProject.exe.config
+C:\Users\Bikram\workspace\KinectForPCGames\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.exe
+C:\Users\Bikram\workspace\KinectForPCGames\KIKSoftwareProject\obj\x86\Debug\KIKSoftwareProject.pdb

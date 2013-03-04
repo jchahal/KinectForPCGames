@@ -1,0 +1,2 @@
+2012-05-16 18:10:18,380 [MainThread] INFO  KIKSoftwareProject.KinectNuiInterface - Sucessfully configured log manager.
+2012-05-16 18:10:21,531 [MainThread] INFO  KIKSoftwareProject.KinectNuiInterface - Intializing nuiRuntime object
