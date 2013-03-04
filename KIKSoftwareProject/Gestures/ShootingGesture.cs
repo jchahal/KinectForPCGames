@@ -92,7 +92,6 @@ namespace KIKSoftwareProject.Gestures
                     shoot = IsShootTrue(newGestureData);
                 }
 
-
                 // This condition becomes true when shoot is triggerd but it was not detected previously
                 // If the user is already in shoot mode and still pulls the hand back this condition will not pass 
                 // Unless or until he moves his hand out of the box (set shootDetected to false) and
@@ -111,20 +110,12 @@ namespace KIKSoftwareProject.Gestures
                     break;
                 }
 
-
                 isInsideBox = IsInSideShootBox(newGestureData);
-
-
-                
-                
-                
-               
 
                 if (this.shootDetected)
                 { 
                     logger.Debug("ttt shootinggggg "); 
                 }
-
                 
                 //Orig end
                 //New start
@@ -285,8 +276,6 @@ namespace KIKSoftwareProject.Gestures
             SkeletonData latestSkeleton = null;
             SkeletonData oldestSkeleton = null;
             SkeletonData previouSkeleton = null;
-
-
 
             do
             {
